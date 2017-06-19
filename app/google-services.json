@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65403057303",
+    "firebase_url": "https://buchat-d46f5.firebaseio.com",
+    "project_id": "buchat-d46f5",
+    "storage_bucket": "buchat-d46f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65403057303:android:7c683f7270b9f052",
+        "android_client_info": {
+          "package_name": "com.everything22.bhanuprakashreddy.buchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65403057303-isema69ica5ean5kvs1hn2cqo2sj8kbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUiOohXKnCcwFeb_N_4FjtvTjAqI7Y94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
